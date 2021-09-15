@@ -14,9 +14,9 @@ In this challenge, you will be conducting a thorough data analysis of your chose
 • LinkedIn digital for jobs, migration trends: https://www.kaggle.com/salehahmedrony/linkedin-digital-data \
 • Ethereum data: https://www.kaggle.com/varpit94/ethereum-data \
 • Bitcoin sentiment: https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets \
-• Internet Access: https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetaccesshouseholdsandindividualsreferencetables?fbclid=IwAR0BNjeJJjGxn4zg7XPrVo_TsfsfvqqVI-HbahZNafrXSGj3EYkPmzTYYUE \
+• Internet access: https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/internetaccesshouseholdsandindividualsreferencetables?fbclid=IwAR0BNjeJJjGxn4zg7XPrVo_TsfsfvqqVI-HbahZNafrXSGj3EYkPmzTYYUE \
 • Remote working: https://slack.com/blog/collaboration/workplace-transformation-in-the-wake-of-covid-19 \
-• Online Learning : https://www.nber.org/system/files/working_papers/w29113/w29113.pdf
+• Online learning : https://www.nber.org/system/files/working_papers/w29113/w29113.pdf
 
 **Resources for Covid related Datasets:**\
 • https://github.com/CSSEGISandData/COVID-19 \
