@@ -1,12 +1,24 @@
 # Hack Rice 11 Data Science Challenge
 
 ## Challenge Description
-This challenge is focused on creating a data science project. Data science is a relatively new and popular field that involves combining domain knowledge, programming, and math to tell effective stories with data. Many companies have started incorporating data science into their tech stacks to help them make key decisions for their business. This challenge is an opportunity to get your feet wet in this field as you will be creating an end-to-end data analysis for one of the HackRice themes: “Connectivity”, “Digitization”, and “Transitioning to a World post COVID-19”.
+This challenge is focused on creating a data science project. Data science is a relatively new and popular field that involves combining domain knowledge, programming, and math to tell effective stories with data. Many companies have started incorporating data science into their tech stacks to help them make key decisions for their business. This challenge is an opportunity to get your feet wet in this field as you will be creating an end-to-end data analysis for a topic of your choice.
 
 ## Prompt
-In this challenge, you will be conducting a thorough data analysis of a topic related to one of the hackathon themes. We will be providing some sample data sets to analyze but you are free to choose your own. The goal is to derive insights from the data that can be then used to address a problem related to one of these themes. This process involves steps such as finding a relevant dataset, cleaning the data, testing various algorithms, and finally presenting the results in an easy-to-understand way. For each of these steps, we are also giving you the flexibility to choose which technologies and tools you would like to work with.
+In this challenge, you will be conducting a thorough data analysis of your chosen topic. We will be providing some sample data sets to analyze but you are free to choose your own. The goal is to derive insights from the data that can be then used to address a problem related to one of these themes. This process involves steps such as finding a relevant dataset, cleaning the data, testing various algorithms, and finally presenting the results in an easy-to-understand way. For each of these steps, we are also giving you the flexibility to choose which technologies and tools you would like to work with.
 
 ## Datasets
+**Resources for Track related Datasets:**\
+*As a reminder, the tracks are “Connectivity”, “Digitization”, and “Transitioning to a World post COVID-19”.*
+
+• Digital advertising conversion fraud: https://www.kaggle.com/anmolkumar/digital-advertising-conversion-fraud?select=readme.txt \
+• LinkedIn digital for jobs, migration trends: https://www.kaggle.com/salehahmedrony/linkedin-digital-data \
+• Ethereum data: https://www.kaggle.com/varpit94/ethereum-data \
+• Bitcoin sentiment: https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets \
+[TODO: social media] \
+[TODO: remote working \
+[TODO: online learning]
+
+
 **Resources for Covid related Datasets:**\
 • https://github.com/CSSEGISandData/COVID-19 \
 • https://github.com/lindawangg/COVID-Net \
