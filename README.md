@@ -1,4 +1,4 @@
-# Hack Rice 11 Data Science Challenge
+# HackRice 11 Data Science Challenge
 
 ## Challenge Description
 This challenge is focused on creating a data science project. Data science is a relatively new and popular field that involves combining domain knowledge, programming, and math to tell effective stories with data. Many companies have started incorporating data science into their tech stacks to help them make key decisions for their business. This challenge is an opportunity to get your feet wet in this field as you will be creating an end-to-end data analysis for a topic of your choice.
